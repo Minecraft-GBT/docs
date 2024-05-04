@@ -31,7 +31,7 @@
 
 ## 电子邮件 <Badge type="danger" text="慢速通道" />
 
-发送电子邮件至 [gteh@gteh.top](mailto:gteh@gteh.top) 申请。
+发送电子邮件至 [gbt@gteh.top](mailto:gbt@gteh.top) 申请。
 
 ---
 

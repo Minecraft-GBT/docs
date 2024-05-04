@@ -54,11 +54,21 @@ next: false
 
 - 立项
 
-## 模组
+## 模组 (主模组)
+
+### 2024.5.4
+
+- 立项
+
+## 模组 (MTR 附属)
 
 ### 2024.4
 
 - 立项
+
+### 2024.5.4
+
+- 决定将部分功能拆解 (主模组) 以将可以支持 Quilt / NeoForge 的功能发布
 
 ## 官网
 
@@ -84,3 +94,10 @@ next: false
 ### 2024.5.4
 
 - 将文件迁回至单独仓库的`main`分支，但仓库所有者更改为新创建的 GitHub 组织 ([Minecraft-GBT](//github.com/Minecraft-GBT))
+- 有关模组拆分事项导致的页面改动更新
+- 将联系邮箱由 [gteh@gteh.top](mailto:gteh@gteh.top) 改为 [gbt@gteh.top](mailto:gbt@gteh.top)
+- 修复了鸣谢页面 Minecraft Forge 官网页面链接错误的问题
+- 修复了鸣谢页面 GitHub 的 GitHub 页面链接错误问题
+- 将鸣谢页面无联系链接的鸣谢人员的`links`属性删除 (原为`[]`)
+- 鸣谢页面中 Zbx1425 的描述改为“Nemo's Transit Expansion 作者”，与 Jonathan Ho 的描述一样，模组英文名使用全称，风格更统一
+- 道路交通标志包介绍首行中的 GBT 系列包不再指向 MTRBBS
