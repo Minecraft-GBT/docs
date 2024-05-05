@@ -101,3 +101,10 @@ next: false
 - 将鸣谢页面无联系链接的鸣谢人员的`links`属性删除 (原为`[]`)
 - 鸣谢页面中 Zbx1425 的描述改为“Nemo's Transit Expansion 作者”，与 Jonathan Ho 的描述一样，模组英文名使用全称，风格更统一
 - 道路交通标志包介绍首行中的 GBT 系列包不再指向 MTRBBS
+
+### 2024.5.5
+
+- 添加了各个包 / 模组的支持 Minecraft 版本
+- 添加了搜索功能 (基于 MiniSearch)
+- 通过了川流的主包使用申请 (经 MTRBBS)
+- 申请结果公示页面表格样式更改

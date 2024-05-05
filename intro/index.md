@@ -117,4 +117,4 @@ A：把圆角矩形框应用到 GB/T 10001.3-2021 上
 
 # 反馈
 
-如遇图标、中英文错误或导致无法使用的严重错误，请在 [MTRBBS](//www.mtrbbs.top/thread-6274-1-1.html) 介绍帖回复或发送电子邮件至 [gteh@gteh.top](mailto:gteh@gteh.top)，我将尽力解决。
+如遇图标、中英文错误或导致无法使用的严重错误，请在 [MTRBBS](//www.mtrbbs.top/thread-6274-1-1.html) 介绍帖回复或发送电子邮件至 [gbt@gteh.top](mailto:gbt@gteh.top)，我将尽力解决。
