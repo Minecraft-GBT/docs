@@ -15,7 +15,7 @@ const { Layout } = DefaultTheme
       <div class="vp-doc external-link-icon-enabled"> 
         <h1 :id="frontmatter.version" tabindex="-1">{{ frontmatter.version }}<span v-if="frontmatter.latest" class="VPBadge tip">最新版本</span> <a class="header-anchor" :href="'#' + frontmatter.version" :aria-label="'Permalink to &quot;' + frontmatter.version + '&quot;'">​</a></h1>
         <div v-if="!frontmatter.latest" class="warning custom-block github-alert"><p class="custom-block-title">WARNING</p><p>这不是最新版本内容。</p></div>
-        <p><a :href="frontmatter.files[0].link" target="_blank" rel="noreferrer">立即下载 (OneDrive)</a></p>
+        <p><a :href="frontmatter.base + frontmatter.files[0].link" target="_blank" rel="noreferrer">立即下载 (OneDrive)</a></p>
         <p v-if="frontmatter.lanzou"><a :href="frontmatter.lanzou.link" target="_blank" rel="noreferrer">蓝奏云下载</a> (密码: {{ frontmatter.lanzou.pwd }})</p>
         <p v-if="frontmatter.curseforge"><a :href="frontmatter.curseforge" target="_blank" rel="noreferrer">CurseForge 下载</a></p>
         <p v-if="frontmatter.modrinth"><a :href="frontmatter.modrinth" target="_blank" rel="noreferrer">Modrinth 下载</a></p>
@@ -42,7 +42,7 @@ const { Layout } = DefaultTheme
         <h2 id="文件列表" tabindex="-1">文件列表 <a class="header-anchor" href="#文件列表" aria-label="Permalink to &quot;文件列表&quot;">​</a></h2>
         <p>点击文件名以下载。(OneDrive 下载渠道)</p>
         <div v-for="file in frontmatter.files">
-          <p><a :href="file.link" target="_blank" rel="noreferrer">{{ file.name }}</a> ({{ file.size }})<span v-if="file.primary"> (主要文件)</span></p>
+          <p><a :href="frontmatter.base + file.link" target="_blank" rel="noreferrer">{{ file.name }}</a> ({{ file.size }})<span v-if="file.primary"> (主要文件)</span></p>
         </div>
       </div>
     </template>
