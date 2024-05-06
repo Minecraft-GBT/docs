@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 介绍
       link: /intro/
+    - theme: brand
+      text: 下载
+      link: /download/
     - theme: alt
       text: 授权
       link: /auth/

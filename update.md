@@ -118,3 +118,5 @@ next: false
 
 - 鸣谢页面添加了 QuiltMC 和 NeoForged，原 Forge & Fabric 更改
 - 下载页面样式更新
+- 下载页面去除 WIP 标记
+- 首页添加下载按钮 (在介绍与授权中间)
