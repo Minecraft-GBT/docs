@@ -113,3 +113,8 @@ next: false
 - 添加了下载页面样式
 - 右上角图标添加 Modrinth 和 CurseForge (暂未启用)
 - 添加了主包 v1.2-hotfix-1 和 v1.1-hotfix-1 下载页面
+
+### 2024.5.6
+
+- 鸣谢页面添加了 QuiltMC 和 NeoForged，原 Forge & Fabric 更改
+- 下载页面样式更新
