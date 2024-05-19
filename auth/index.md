@@ -21,6 +21,10 @@
 
 违反 QQ 相关规定、群规定等造成的后果不由本人承担。
 
+## 官网 <Badge type="info" text="快速通道" />
+
+在本页面评论后等待审核通过。
+
 ## MTRBBS <Badge type="info" text="快速通道" />
 
 在 [MTRBBS 介绍帖](//www.mtrbbs.top/thread-6274-1-1.html)中回复帖子后等待回复。

@@ -1,7 +1,7 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import { useData } from 'vitepress';
-
+import Twikoo from './Twikoo.vue';
 
 const { frontmatter } = useData()
 const { Layout } = DefaultTheme
@@ -47,6 +47,14 @@ const { Layout } = DefaultTheme
           <p><a :href="frontmatter.base + file.link" target="_blank" rel="noreferrer">{{ file.name }}</a> ({{ file.size }})<span v-if="file.primary"> (主要文件)</span></p>
         </div>
       </div>
+    </template>
+    <template #home-features-after>
+      <div class="home-comment-container">
+        <Twikoo></Twikoo>
+      </div>
+    </template>
+    <template #doc-after>
+      <Twikoo></Twikoo>
     </template>
   </Layout>
 </template>
