@@ -125,3 +125,7 @@ next: false
 
 - 添加了 [Twikoo](//twikoo.js.org) 评论区
 - 授权方式添加了官网
+
+### 2024.5.21
+
+- 通过了 MTRxiaosong6666 (林溪市) 的主包使用申请 (经 MTRBBS)
