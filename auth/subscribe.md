@@ -39,6 +39,7 @@
 |       跨群系线2.0        |  √   |  ×   |  ×   |   通过   |    QQ    |
 |           川流           |  √   |  ×   |  ×   |   通过   |  MTRBBS  |
 | MTRxiaosong6666 (林溪市) |  √   |  ×   |  ×   |   通过   |  MTRBBS  |
+|        ZFK SERVER        |  √   |  ×   |  ×   |   通过   |  MTRBBS  |
 
 ### 道路交通标志包
 
