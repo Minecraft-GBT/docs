@@ -137,3 +137,8 @@ next: false
 ### 2024.6.3
 
 - 通过了 ZFK SERVER 的主包使用申请 (经 MTRBBS)
+
+### 2024.6.5
+
+- 将 Emerald_Rail 添加至赞助鸣谢页面
+- 首页的评论显示现在更加美观、合理 (对于 VitePress 和 Vue 不是很熟悉，代码可能看着很难受)

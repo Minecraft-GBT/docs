@@ -44,6 +44,13 @@ features:
     details: 完全遵循 GB 5768.2-2022 的道路交通标志牌，还原现实就是最终目的
 ---
 
+<script setup>
+  import { onMounted } from 'vue'
+  onMounted(() => {
+    document.getElementsByClassName("VPContent")[0].appendChild(document.getElementById("twikoo-c"));
+  });
+</script>
+
 |            名称            |   最新版本    |               依赖                | 支持 Minecraft 版本  |
 | :------------------------: | :-----------: | :-------------------------------: | :------------------: |
 |            主包            | v1.2-hotfix-1 |            MTR 3.0.0+             |    1.16.5~1.20.1     |

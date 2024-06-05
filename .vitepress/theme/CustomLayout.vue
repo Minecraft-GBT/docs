@@ -49,7 +49,7 @@ const { Layout } = DefaultTheme
       </div>
     </template>
     <template #home-features-after>
-      <div class="home-comment-container">
+      <div id="twikoo-c" class="home-comment-container">
         <Twikoo></Twikoo>
       </div>
     </template>
@@ -145,5 +145,39 @@ const { Layout } = DefaultTheme
   --update-channel-alpha: #ff496e;
   --update-channel-beta: #ffa347;
   --update-channel-release: #1bd96a;
+}
+
+.VPHome {
+  margin-bottom: 0 !important;
+}
+
+.home-comment-container {
+  position: relative;
+  margin-top: 64px;
+  padding: 0 24px;
+  .twikoo {
+    margin-bottom: 128px;
+  }
+  .comment-container {
+    margin: 0 auto;
+    max-width: 1152px;
+  }
+}
+
+@media (min-width: 640px) {
+  .home-comment-container {
+    padding: 0 48px;
+  }
+}
+
+@media (min-width: 960px) {
+  .home-comment-container {
+    padding: 0 64px;
+  }
+}
+
+.twikoo .el-loading-spinner .circular {
+  margin-left: auto;
+  margin-right: auto;
 }
 </style>

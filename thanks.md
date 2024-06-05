@@ -157,6 +157,14 @@ const members = [
     title: '更新动力来源'
   }
 ]
+
+const sponsor = [
+  {
+    avatar: '//www.mtrbbs.top/uc_server/avatar.php?uid=1116&size=big',
+    name: 'Emerald_Rail',
+    title: '2024.6.4 赞助'
+  }
+]
 </script>
 
 # 鸣谢
@@ -172,7 +180,7 @@ const members = [
 
 以下鸣谢人员是因为赞助 GBT 而上榜。
 
-暂无。
+<VPTeamMembers size="small" :members="sponsor" />
 
 ---
 
