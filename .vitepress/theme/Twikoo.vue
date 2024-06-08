@@ -1,18 +1,20 @@
 <script setup>
 import { ref, onMounted } from 'vue'
-import { useRouter } from 'vitepress'
+import { useRouter, useData } from 'vitepress'
 
 // twikoojs/twikoo -> docs/.vitepress/theme/Twikoo.vue
 
 const envId = 'https://twikoo.gbt.gteh.top'
 const twikooJs = ref(null)
 const router = useRouter()
+const data = useData()
 
 function initTwikoo () {
   try {
     twikoo.init({
       envId,
-      onCommentLoaded: initLightGallery
+      onCommentLoaded: initLightGallery,
+      lang: data.lang.value
     })
   } catch (e) {}
 }

@@ -1,75 +1,12 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export const shared = defineConfig({
   lang: 'zh-CN',
   title: "GBT",
-  description: "GBT 系列包及其配套模组官方网站",
   themeConfig: {
     logo: "/logo.svg",
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: '首页', link: '/' },
-      { text: '介绍', link: '/intro/' },
-      { text: '下载', link: '/download/' },
-      { text: '授权', link: '/auth/' },
-      { text: '更新', link: '/update' },
-      { text: '鸣谢', link: '/thanks' }
-    ],
-
-    sidebar: {
-      '/intro/': [
-        {
-          text: '介绍',
-          items: [
-            { text: '主包', link: '/intro/' },
-            { text: '道路交通标志包 (暂缓发布)', link: '/intro/road' },
-            { text: '模组 (主模组) (暂缓发布)', link: '/intro/mod' },
-            { text: '模组 (MTR 附属) (暂缓发布)', link: '/intro/mod-mtr' }
-          ]
-        }
-      ],
-      '/auth/': [
-        {
-          text: '授权',
-          items: [
-            { text: '申请', link: '/auth/' },
-            { text: '申请反馈 / 黑名单', link: '/auth/subscribe' }
-          ]
-        }
-      ],
-      '/download/': [
-        {
-          text: '主包',
-          collapsed: true,
-          items: [
-            { text: 'v1.2-hotfix-1 (最新)', link: '/download/main/v1.2-hotfix-1' },
-            { text: 'v1.1-hotfix-1', link: '/download/main/v1.1-hotfix-1' }
-          ]
-        },
-        {
-          text: '道路交通标志包 (暂缓发布)',
-          collapsed: true,
-          items: [
-            { text: 'v1.0', link: '/download/traffic-signs/v1.0' }
-          ]
-        },
-        {
-          text: '模组 (主模组) (暂缓发布)',
-          collapsed: true,
-          items: [
-            { text: 'v0.1', link: '/download/mod/v0.1' }
-          ]
-        },
-        {
-          text: '模组 (MTR 附属) (暂缓发布)',
-          collapsed: true,
-          items: [
-            { text: 'v0.1', link: '/download/mod-mtr/v0.1' }
-          ]
-        }
-      ]
-    },
 
     head: [
       [
@@ -86,28 +23,6 @@ export default defineConfig({
       ]
     ],
 
-    search: {
-      provider: 'local',
-      options: {
-        translations: {
-          button: {
-            buttonText: '搜索文档',
-            buttonAriaLabel: '搜索文档'
-          },
-          modal: {
-            displayDetails: '显示详情',
-            noResultsText: '无法找到相关结果',
-            resetButtonTitle: '清除查询条件',
-            footer: {
-              selectText: '选择',
-              navigateText: '切换',
-              closeText: '关闭'
-            }
-          }
-        }
-      }
-    },
-
     socialLinks: [
       { icon: { svg: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M48 64C21.5 64 0 85.5 0 112c0 15.1 7.1 29.3 19.2 38.4L236.8 313.6c11.4 8.5 27 8.5 38.4 0L492.8 150.4c12.1-9.1 19.2-23.3 19.2-38.4c0-26.5-21.5-48-48-48H48zM0 176V384c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V176L294.4 339.2c-22.8 17.1-54 17.1-76.8 0L0 176z"/></svg>' }, link: 'mailto:gbt@gteh.top' },
       { icon: 'github', link: '//github.com/Minecraft-GBT' },
@@ -116,47 +31,8 @@ export default defineConfig({
       // { icon: { svg: '<svg viewBox="0 0 32 32"><path d="M23.9074 12.0181C23.9074 12.0181 30.0327 11.0522 31 8.23523H21.6168V6H1L3.53975 8.94699V11.9664C3.53975 11.9664 9.94812 11.6332 12.427 13.5129C15.8202 16.6579 8.61065 20.9092 8.61065 20.9092L7.37439 25C9.30758 23.1593 12.9921 20.7781 19.7474 20.8929C17.1767 21.7053 14.5917 22.9743 12.5794 25H26.2354L24.9494 20.9092C24.9494 20.9092 15.0519 15.0732 23.9074 12.0184V12.0181Z" fill="currentColor"></path></svg>' }, link: '//curseforge.com' }
     ],
 
-    footer: {
-      message: 'GBT 系列包，专注指示牌',
-      copyright: '如无特别提示，本站内容均遵循<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans" target="_blank">知识共享-署名-非商业性使用 4.0 国际</a>协议<br>非 Minecraft 官方服务。与 Mojang 或 Microsoft 无隶属关系。'
-    },
-
     cleanUrls: true,
     ignoreDeadLinks: true,
-
-    editLink: {
-      pattern: '//github.com/Minecraft-GBT/docs/edit/main/:path',
-      text: '在 GitHub 上编辑本页'
-    },
-
-    docFooter: {
-      prev: '上一页',
-      next: '下一页'
-    },
-
-    outline: {
-      label: '页面导航'
-    },
-    notFound: {
-      title: '页面已丢失',
-      quote: '谁把你带到这来了？',
-      linkLabel: '返回主页',
-      linkText: '返回主页'
-    },
-    lastUpdated: {
-      text: '最后更新于',
-      formatOptions: {
-        dateStyle: 'short',
-        timeStyle: 'medium'
-      }
-    },
-
-    langMenuLabel: '多语言',
-    returnToTopLabel: '回到顶部',
-    sidebarMenuLabel: '菜单',
-    darkModeSwitchLabel: '主题',
-    lightModeSwitchTitle: '切换到浅色模式',
-    darkModeSwitchTitle: '切换到深色模式',
     externalLinkIcon: true
   }
 })
