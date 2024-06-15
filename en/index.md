@@ -9,13 +9,13 @@ hero:
   actions:
     - theme: brand
       text: Introduction
-      link: /intro/
+      link: /en/intro/
     - theme: brand
       text: Download
-      link: /download/
+      link: /en/download/
     - theme: alt
       text: Authentication
-      link: /auth/
+      link: /en/auth/
     - theme: alt
       text: MTRBBS
       link: //www.mtrbbs.top/thread-6274-1-1.html

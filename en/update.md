@@ -151,3 +151,8 @@ next: false
 - Due to the homepage comments causing lag, considering aesthetics and practicality, the homepage comment section was removed (causing 1 comment not to display)
 - Added English translation
 - Approved the main package application for 原始轨道交通 (via QQ)
+
+### June 15, 2024
+
+- English version homepage buttons' link modified
+- Approved the main package application for TBSTMOD (via MTRBBS)
