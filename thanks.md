@@ -163,6 +163,16 @@ const sponsor = [
     avatar: '//www.mtrbbs.top/uc_server/avatar.php?uid=1116&size=big',
     name: 'TEY0089',
     title: '2024.6.4 赞助'
+  },
+  {
+    avatar: '/thanks/sponsor/202406/shubaoxiong.jpg',
+    name: '树抱熊',
+    title: '2024.6.23 赞助'
+  },
+  {
+    avatar: '/thanks/sponsor/202406/fxhy.jpg',
+    name: '飞燕团队',
+    title: '2024.6.23 赞助'
   }
 ]
 </script>

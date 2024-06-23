@@ -143,7 +143,7 @@ next: false
 
 ### June 5, 2024
 
-- Added Emerald_Rail to the sponsorship acknowledgment page
+- Added Emerald_Rail to the sponsorship acknowledgments page
 - The comment display on the homepage is now more aesthetically pleasing and reasonable (the code may look uncomfortable as I’m not very familiar with VitePress and Vue)
 
 ### June 8, 2024
@@ -160,3 +160,5 @@ next: false
 ### June 23, 2024
 
 - Emerald_Rail -> TEY0089
+- Added 树抱熊 to the sponsorship acknowledgments page
+- Added FXHY to the sponsorship acknowledgments page

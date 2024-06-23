@@ -162,7 +162,17 @@ const sponsor = [
   {
     avatar: '//www.mtrbbs.top/uc_server/avatar.php?uid=1116&size=big',
     name: 'TEY0089',
-    title: 'Sponsorship on April 4, 2024'
+    title: 'Sponsored on June 4, 2024'
+  },
+  {
+    avatar: '/thanks/sponsor/202406/shubaoxiong.jpg',
+    name: '树抱熊',
+    title: 'Sponsored on June 23, 2024'
+  },
+  {
+    avatar: '/thanks/sponsor/202406/fxhy.jpg',
+    name: 'FXhY',
+    title: 'Sponsored on June 23, 2024'
   }
 ]
 </script>
@@ -176,7 +186,7 @@ const sponsor = [
 
 <VPTeamMembers size="small" :members="members" />
 
-## Sponsorship Acknowledgment
+## Sponsorship Acknowledgments
 
 The following individuals are acknowledged for their sponsorship of GBT.
 
