@@ -158,3 +158,7 @@ next: false
 
 - 英文版主页按钮链接修改
 - 通过了 TBSTMOD 的主包使用申请 (经 MTRBBS)
+
+### 2024.6.23
+
+- Emerald_Rail -> TEY0089

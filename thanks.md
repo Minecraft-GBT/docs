@@ -161,7 +161,7 @@ const members = [
 const sponsor = [
   {
     avatar: '//www.mtrbbs.top/uc_server/avatar.php?uid=1116&size=big',
-    name: 'Emerald_Rail',
+    name: 'TEY0089',
     title: '2024.6.4 赞助'
   }
 ]
