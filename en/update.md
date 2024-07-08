@@ -162,3 +162,8 @@ next: false
 - Emerald_Rail -> TEY0089
 - Added 树抱熊 to the sponsorship acknowledgments page
 - Added FXHY to the sponsorship acknowledgments page
+
+### July 8, 2024
+
+- Approved the main package application for 实践深空 (via MTRBBS)
+- Approved the main package application for 海沙城 (via MTRBBS)

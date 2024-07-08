@@ -42,6 +42,8 @@ Sorted by the order of application time.
 |        ZFK SERVER        |  √   |     ×     |   ×    | Approved | MTRBBS |
 |       原始轨道交通       |  √   |     ×     |   ×    | Approved |   QQ   |
 |         TBSTMOD          |  √   |     ×     |   ×    | Approved | MTRBBS |
+|         实践深空         |  √   |     ×     |   ×    | Approved | MTRBBS |
+|          海沙城          |  √   |     ×     |   ×    | Approved | MTRBBS |
 
 ### Traffic Signs Package
 
