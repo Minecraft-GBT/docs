@@ -167,3 +167,7 @@ next: false
 
 - Approved the main package application for 实践深空 (via MTRBBS)
 - Approved the main package application for 海沙城 (via MTRBBS)
+
+### July 16, 2024
+
+- Approved the main package application for 星河市 (via QQ)

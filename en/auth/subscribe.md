@@ -44,6 +44,7 @@ Sorted by the order of application time.
 |         TBSTMOD          |  √   |     ×     |   ×    | Approved | MTRBBS |
 |         实践深空         |  √   |     ×     |   ×    | Approved | MTRBBS |
 |          海沙城          |  √   |     ×     |   ×    | Approved | MTRBBS |
+|          星河市          |  √   |     ×     |   ×    | Approved |   QQ   |
 
 ### Traffic Signs Package
 
