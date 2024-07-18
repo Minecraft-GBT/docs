@@ -171,3 +171,7 @@ next: false
 ### July 16, 2024
 
 - Approved the main package application for 星河市 (via QQ)
+
+### July 18, 2024
+
+- Approved the main package application for ihenghengheng craft (via MTRBBS)

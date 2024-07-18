@@ -173,3 +173,7 @@ next: false
 ### 2024.7.16
 
 - 通过了星河市服务器的主包使用申请 (经 QQ)
+
+### 2024.7.18
+
+- 通过了 ihenghengheng craft 的主包使用申请 (经 MTRBBS)
