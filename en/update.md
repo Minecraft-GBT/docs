@@ -175,3 +175,10 @@ next: false
 ### July 18, 2024
 
 - Approved the main package application for ihenghengheng craft (via MTRBBS)
+
+- Migration from GitHub Pages to Cloudflare Pages
+- Removed `.nojekyll` and `CNAME` files
+
+### July 23, 2024
+
+- Approved the main package application for DA 轨道交通 (via Website / QQ)

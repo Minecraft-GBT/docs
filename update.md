@@ -177,3 +177,9 @@ next: false
 ### 2024.7.18
 
 - 通过了 ihenghengheng craft 的主包使用申请 (经 MTRBBS)
+- 由 GitHub Pages 迁移至 Cloudflare Pages
+- 删除了`.nojekyll`和`CNAME`文件
+
+### 2024.7.23
+
+- 通过了 DA 轨道交通的主包使用申请 (经网站 / QQ)
