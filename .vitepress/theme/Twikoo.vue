@@ -72,6 +72,6 @@ onMounted(() => {
 
     <!-- Twikoo -->
     <div id="twikoo"></div>
-    <component :is="'script'" src="//cdn.jsdelivr.net/npm/twikoo@1.6.34/dist/twikoo.min.js" ref="twikooJs"></component>
+    <component :is="'script'" src="//cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.min.js" ref="twikooJs"></component>
   </div>
 </template>

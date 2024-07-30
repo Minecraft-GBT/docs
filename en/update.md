@@ -186,3 +186,4 @@ next: false
 ### July 27, 2024
 
 - Approved the main package application for Real City Life (via QQ)
+- Updated Twikoo to 1.6.38

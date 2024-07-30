@@ -187,3 +187,4 @@ next: false
 ### 2024.7.27
 
 - 通过了 Real City Life 的主包使用申请 (经 QQ)
+- 将 Twikoo 升级至 1.6.38
