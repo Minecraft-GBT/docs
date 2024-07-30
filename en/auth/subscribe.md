@@ -47,6 +47,7 @@ Sorted by the order of application time.
 |          星河市          |  √   |     ×     |   ×    | Approved |      QQ      |
 |   ihenghengheng craft    |  √   |     ×     |   ×    | Approved |    MTRBBS    |
 |       DA 轨道交通        |  √   |     √     |   ×    | Approved | Website / QQ |
+|      Real City Life      |  √   |     ×     |   ×    | Approved |      QQ      |
 
 ### Traffic Signs Package
 

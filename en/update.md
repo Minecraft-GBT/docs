@@ -182,3 +182,7 @@ next: false
 ### July 23, 2024
 
 - Approved the main package application for DA 轨道交通 (via Website / QQ)
+
+### July 27, 2024
+
+- Approved the main package application for Real City Life (via QQ)
