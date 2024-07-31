@@ -67,11 +67,11 @@ onMounted(() => {
 <template>
   <div class="comment-container vp-raw">
     <!-- lightGallery -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/lightgallery@2.1.8/css/lightgallery.css">
-    <component :is="'script'" src="//cdn.jsdelivr.net/npm/lightgallery@2.1.8/lightgallery.min.js"></component>
+    <link rel="stylesheet" href="/assets/lightgallery.css">
+    <component :is="'script'" src="/assets/lightgallery.min.js"></component>
 
     <!-- Twikoo -->
     <div id="twikoo"></div>
-    <component :is="'script'" src="//cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.min.js" ref="twikooJs"></component>
+    <component :is="'script'" src="/assets/twikoo.min.js" ref="twikooJs"></component>
   </div>
 </template>

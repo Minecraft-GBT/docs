@@ -186,4 +186,11 @@ next: false
 ### July 27, 2024
 
 - Approved the main package application for Real City Life (via QQ)
+
+### July 30, 2024
+
 - Updated Twikoo to 1.6.38
+
+### July 31, 2024
+
+- Twikoo and lightGallery are no longer using jsDelivr's CDN loading
