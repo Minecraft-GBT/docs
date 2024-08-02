@@ -194,3 +194,7 @@ next: false
 ### July 31, 2024
 
 - Twikoo and lightGallery are no longer using jsDelivr's CDN loading
+
+### August 1, 2024
+
+- Approved the main package application for 嘉和联合轨道交通 (via MTRBBS / QQ)

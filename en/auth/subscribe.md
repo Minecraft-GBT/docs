@@ -48,6 +48,7 @@ Sorted by the order of application time.
 |   ihenghengheng craft    |  √   |     ×     |   ×    | Approved |    MTRBBS    |
 |       DA 轨道交通        |  √   |     √     |   ×    | Approved | Website / QQ |
 |      Real City Life      |  √   |     ×     |   ×    | Approved |      QQ      |
+|     嘉和联合轨道交通     |  √   |     √     |   ×    | Approved | MTRBBS / QQ  |
 
 ### Traffic Signs Package
 
