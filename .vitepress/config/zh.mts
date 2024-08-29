@@ -84,7 +84,7 @@ export const zh = defineConfig({
 
     footer: {
       message: 'GBT 系列包，专注指示牌',
-      copyright: '如无特别提示，本站内容均遵循<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans" target="_blank">知识共享-署名-非商业性使用 4.0 国际</a>协议<br>非 Minecraft 官方服务。与 Mojang 或 Microsoft 无隶属关系。'
+      copyright: '如无特别提示，本站内容均遵循<a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans" target="_blank">知识共享-署名-非商业性使用 4.0 国际</a>协议<br>非 MINECRAFT 官方服务。未经 MOJANG 或 MICROSOFT 批准，也不与 MOJANG 或 MICROSOFT 关联。'
     },
 
     editLink: {

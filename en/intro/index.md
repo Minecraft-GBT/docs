@@ -1,7 +1,5 @@
 # \[Semi-Original\]\[MTR 3.0.0+\]\[Free\] GBT (National Standard) Series Signage Add-on Pack
 
-This pack is also released on: [MTRBBS](//www.mtrbbs.top/thread-6274-1-1.html) [MTRCMU](//www.mtrbbs.com.cn/resources/20/)
-
 Added 2490 railway signs, with a total of 1029 texture files.
 
 > [!NOTE]
@@ -13,9 +11,9 @@ Added 2490 railway signs, with a total of 1029 texture files.
 
 **Please archive test before using this resource pack.**
 
-Copyright Notice: Unauthorized reproduction, integration, modification of additional content is prohibited; under any circumstances, all acts of resale for profit are forbidden. Single-player archives can be used without authorization, but server use requires authorization (please attach server information).
+**Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player archives and servers is permitted without prior notice.
 
-**The author reserves the right to revoke your usage rights under reasonable circumstances without any reason and is not liable for any responsibility.**
+**The author reserves the right to revoke your usage rights and publicly blacklist you without any liability or responsibility for your losses if there is evidence proving that you have spread rumors, defamed, unjustifiably banned, kicked, or insulted the author or GBT without reason.**
 
 ## Formal Introduction
 
@@ -69,7 +67,7 @@ The GBT series signage add-on pack (referred to as the GBT series pack) is commi
 
 ## Download
 
-[Download from this website](/download/)
+[Download from this website](/en/download/)
 
 [Lanzou Cloud Download](//xinxinf.lanzoub.com/b02rtr69g) Password: 2skn
 
@@ -119,4 +117,4 @@ A：Apply rounded rectangle frames to GB/T 10001.3-2021.
 
 # Feedback
 
-If you encounter icon errors, Chinese/English mistakes, or serious errors that cause unusability, please reply in the [MTRBBS](//www.mtrbbs.top/thread-6274-1-1.html)  introduction post or send an email to [gbt@gteh.top](mailto:gbt@gteh.top), and I will try my best to solve it.
+If you encounter icon errors, Chinese/English mistakes, or serious errors that cause unusability, please send an email to [gbt@gteh.top](mailto:gbt@gteh.top) or comment, and I will try my best to solve it.

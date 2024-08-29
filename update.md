@@ -2,6 +2,7 @@
 sidebar: false
 prev: false
 next: false
+disclaimer: true
 ---
 
 # 更新日志
@@ -199,3 +200,19 @@ next: false
 ### 2024.8.1
 
 - 通过了嘉和联合轨道交通的主包使用和整合申请 (经 MTRBBS / QQ)
+
+### 2024.8.20
+
+- 更改了底部信息。(根据 [Minecraft 使用准则](//www.minecraft.net/zh-hans/usage-guidelines))
+- 社交链接增加。
+- 因为 MTRCMU 现已无法访问，所以更改了与其相关的信息。
+
+### 2024.8.22
+
+- 嘉和联合轨道交通 -> Real City Life
+
+### 2024.8.29
+
+- 将西喵喵君添加至赞助鸣谢页面
+- 北辰工艺 6th -> 北辰工艺 7th
+- 更改了主包的介绍

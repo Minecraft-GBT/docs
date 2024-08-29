@@ -24,6 +24,9 @@ Sorted by the order of application time.
 
 ### Main Package
 
+> [!NOTE]
+> Starting from August 29, 2024, integration or use in single-player saves or servers no longer requires an application.
+
 |       Server Name        | Use  | Integrete | Modify |  Result  |    Method    |
 | :----------------------: | :--: | :-------: | :----: | :------: | :----------: |
 |    林萧轨道交通服务器    |  √   |     √     |   √    | Approved |      QQ      |
@@ -47,8 +50,7 @@ Sorted by the order of application time.
 |          星河市          |  √   |     ×     |   ×    | Approved |      QQ      |
 |   ihenghengheng craft    |  √   |     ×     |   ×    | Approved |    MTRBBS    |
 |       DA 轨道交通        |  √   |     √     |   ×    | Approved | Website / QQ |
-|      Real City Life      |  √   |     ×     |   ×    | Approved |      QQ      |
-|     嘉和联合轨道交通     |  √   |     √     |   ×    | Approved | MTRBBS / QQ  |
+|      Real City Life      |  √   |     √     |   ×    | Approved |      QQ      |
 
 ### Traffic Signs Package
 

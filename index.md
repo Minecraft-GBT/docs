@@ -20,9 +20,6 @@ hero:
       text: MTRBBS
       link: //www.mtrbbs.top/thread-6274-1-1.html
     - theme: alt
-      text: MTRCMU
-      link: //www.mtrbbs.com.cn/resources/20/
-    - theme: alt
       text: 赞助
       link: //sponsor.gteh.top
   image:

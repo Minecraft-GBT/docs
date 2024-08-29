@@ -2,6 +2,7 @@
 sidebar: false
 prev: false
 next: false
+disclaimer: true
 ---
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
@@ -173,6 +174,11 @@ const sponsor = [
     avatar: '/thanks/sponsor/202406/fxhy.jpg',
     name: 'FXhY',
     title: 'Sponsored on June 23, 2024'
+  },
+  {
+    avatar: '/thanks/sponsor/202408/ximiaomiaojun.jpg',
+    name: '西喵喵君',
+    title: 'Sponsored on August 29, 2024'
   }
 ]
 </script>

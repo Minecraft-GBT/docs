@@ -66,7 +66,7 @@ export const en = defineConfig({
 
     footer: {
       message: 'GBT Series Pack, Focused on Signage',
-      copyright: 'The English version is translated by Baidu Translate and Microsoft Copilot.<br>Unless otherwise noted, the content on this site follows the <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans" target="_blank">CC-BY-NC 4.0 International</a> License.<br>This is not an official Minecraft service. Not affiliated with Mojang or Microsoft.'
+      copyright: 'The English version is translated by Baidu Translate and Microsoft Copilot.<br>Unless otherwise noted, the content on this site follows the <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans" target="_blank">CC-BY-NC 4.0 International</a> License.<br>NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.'
     },
 
     editLink: {

@@ -2,6 +2,7 @@
 sidebar: false
 prev: false
 next: false
+disclaimer: true
 ---
 
 # Changelog
@@ -198,3 +199,19 @@ next: false
 ### August 1, 2024
 
 - Approved the main package application for 嘉和联合轨道交通 (via MTRBBS / QQ)
+
+### August 20, 2024
+
+- Changed the bottom information. (According to [Minecraft Usage Guidelines](//www.minecraft.net/en-us/usage-guidelines))
+- Added social icons.
+- Because MTRCMU is no longer accessible, the information related to it has been changed.
+
+### August 22, 2024
+
+- 嘉和联合轨道交通 -> Real City Life
+
+### August 29, 2024
+
+- Added 西喵喵君 to the sponsorship acknowledgments page
+- 北辰工艺 6th -> 北辰工艺 7th
+- Changed the introduction of the main package
