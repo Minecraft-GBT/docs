@@ -49,6 +49,10 @@ disclaimer: true
 
 - Both MTRBBS and Lanzou Cloud had missing files (2 each platform), checked for omissions and re-uploaded
 
+### September 1, 2024
+
+- Main package has been launched on Modrinth and entered into MTR Content DB
+
 ## Traffic Signs Package
 
 ### April 13, 2024

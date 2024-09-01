@@ -51,6 +51,10 @@ disclaimer: true
 
 - MTRBBS 与蓝奏云均有文件缺失问题 (每个平台各 2 个)，查漏补缺并重新上传
 
+### 2024.9.1
+
+- 主包已于 [Modrinth](//modrinth.com) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
+
 ## 道路交通标志包
 
 ### 2024.4.13

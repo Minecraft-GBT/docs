@@ -69,6 +69,8 @@ The GBT series signage add-on pack (referred to as the GBT series pack) is commi
 
 [Download from this website](/en/download/)
 
+[Modrinth Download](//modrinth.com/resourcepack/gbt)
+
 [Lanzou Cloud Download](//xinxinf.lanzoub.com/b02rtr69g) Password: 2skn
 
 Please download `gbt.zip` if there are no special requirements.

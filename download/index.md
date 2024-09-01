@@ -8,6 +8,6 @@
 | 道路交通标志包 (暂缓发布) |     v1.0      |                NTE 0.2.0+                |    1.17.1~1.20.1     |
 |      模组 (暂缓发布)      |     v0.1      | Fabric / Forge / Quilt / NeoForge / Rift | 1.7.10~1.20.6 (预计) |
 
-主包 & 道路交通标志包支持下载方式：蓝奏云、OneDrive。
+主包 & 道路交通标志包支持下载方式：蓝奏云、OneDrive、Modrinth。
 
 模组下载方式：CurseForge、Modrinth、OneDrive。

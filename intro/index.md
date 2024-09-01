@@ -71,6 +71,8 @@ GBT 系列指示牌追加包（简称 GBT 系列包）致力于添加一些推�
 
 [本站下载](/download/)
 
+[Modrinth 下载](//modrinth.com/resourcepack/gbt)
+
 [蓝奏云下载](//xinxinf.lanzoub.com/b02rtr69g) 密码:2skn
 
 无特殊需求请下载`gbt.zip`。
