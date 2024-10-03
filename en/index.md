@@ -17,9 +17,6 @@ hero:
       text: Authentication
       link: /en/auth/
     - theme: alt
-      text: MTRBBS
-      link: //www.mtrbbs.top/thread-6274-1-1.html
-    - theme: alt
       text: Sponsor
       link: //sponsor.gteh.top
   image:
@@ -45,7 +42,7 @@ features:
 | :-----------------------------------------: | :------------: | :-----------------------------------------------: | :------------------------: |
 |                Main Package                 | v1.2-hotfix-1  |                    MTR 3.0.0+                     |       1.16.5~1.20.1        |
 | Traffic Signs Package (Suspend publication) |      v1.0      |                    NTE 0.2.0+                     |       1.17.1~1.20.1        |
-|          Mod (Suspend publication)          |      v0.1      | Fabric / Forge / Quilt / NeoForge / Rift (Except) |   1.7.10~1.20.6 (Except)   |
+|          Mod (Suspend publication)          |      v0.1      | Fabric / Forge / Quilt / NeoForge / Rift (Except) |   1.7.10~1.20.6 (Expect)   |
 
 Mod support for multiple versions takes time, please refer to the actual situation.
 

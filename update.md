@@ -220,3 +220,8 @@ disclaimer: true
 - 将西喵喵君添加至赞助鸣谢页面
 - 北辰工艺 6th -> 北辰工艺 7th
 - 更改了主包的介绍
+
+### 2024.10.3
+
+- 通过了 Meeeeeooooow City 服务器的主包二创申请 (经 MTRBBS)
+- 其他

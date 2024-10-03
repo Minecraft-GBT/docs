@@ -4,7 +4,7 @@ This tutorial explains how to apply for further use of the GBT pack.
 
 “Further” here refers to applying for one or more of the following uses on servers: use / reproduction / integration / modification.
 
-Applications can be made via MTRBBS / MTRCMU / email / QQ.
+Applications can be made via email or website.
 
 > [!NOTE]
 > The GBT main package can be integrated or used in single-player saves and servers without authorization. Reposting or modifying should be done after obtaining permission.
@@ -15,26 +15,9 @@ Applications can be made via MTRBBS / MTRCMU / email / QQ.
 > [!WARNING]
 > Applications for the road traffic sign pack are not currently being accepted. Please wait for the official release.
 
-## QQ <Badge type="tip" text="Fastest Channel" />
-
-If you are a QQ friend of mine or in the same group, you can directly @ me or private message me to apply.
-
-I am not responsible for any consequences of violating QQ-related regulations or group rules.
-
 ## Official Website <Badge type="info" text="Fast Track" />
 
 Comment on this page and wait for the review to pass.
-
-## MTRBBS <Badge type="info" text="Fast Track" />
-
-Reply to the post in the [MTRBBS  introduction thread](//www.mtrbbs.top/thread-6274-1-1.html) and wait for a response.
-
-## MTRCMU <Badge type="warning" text="Medium Speed Channel" />
-
-> [!WARNING]
-> MTRCMU is no longer accessible. This channel may be abandoned.
-
-Use [MTRCMU](//www.mtrbbs.com.cn) to initiate a new private message, search for `gteh` in the participants to apply.
 
 ## Email <Badge type="danger" text="Slow Channel" />
 

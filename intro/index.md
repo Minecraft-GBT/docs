@@ -1,6 +1,6 @@
 # \[半原创\]\[MTR 3.0.0+\]\[免费\] 国标 (GBT) 系列指示牌追加包
 
-此包还在此发布：[MTRBBS](//www.mtrbbs.top/thread-6274-1-1.html) | [MTRCMU](//www.mtrbbs.com.cn/resources/20/) (疑似关站)
+此包还在此发布：[MTRBBS](//www.mtrbbs.top/thread-6274-1-1.html) | [MTRCMU](//www.mtrbbs.com.cn/resources/20/)
 
 添加了 2490 个铁路标识，共 1029 个贴图文件
 

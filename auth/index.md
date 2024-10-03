@@ -4,7 +4,7 @@
 
 此处的“进一步”，指的是申请在服务器中使用 / 转载 / 整合 / 修改中任意一/多种。
 
-申请可以使用 MTRBBS / MTRCMU / 电子邮件 / QQ。
+申请可以使用 MTRBBS / MTRCMU / 电子邮件 / QQ / 官网。
 
 > [!NOTE]
 > GBT 主包无需授权即可整合或在单人存档和服务器内使用。转载或修改应当获得许可后再进行。
@@ -30,9 +30,6 @@
 在 [MTRBBS 介绍帖](//www.mtrbbs.top/thread-6274-1-1.html)中回复帖子后等待回复。
 
 ## MTRCMU <Badge type="warning" text="中速通道" />
-
-> [!WARNING]
-> MTRCMU 现已无法访问。此通道或将废弃。
 
 在 [MTRCMU](//www.mtrbbs.com.cn) 中使用发起新私信，在参与者中搜索`gteh`申请。
 

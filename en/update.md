@@ -219,3 +219,8 @@ disclaimer: true
 - Added 西喵喵君 to the sponsorship acknowledgments page
 - 北辰工艺 6th -> 北辰工艺 7th
 - Changed the introduction of the main package
+
+### October 3, 2024
+
+- Approved the main package application for Meeeeeooooow City (via MTRBBS)
+- Others
