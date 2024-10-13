@@ -73,7 +73,7 @@ GBT 系列指示牌追加包（简称 GBT 系列包）致力于添加一些推�
 
 [Modrinth 下载](//modrinth.com/resourcepack/gbt)
 
-[蓝奏云下载](//xinxinf.lanzoub.com/b02rtr69g) 密码:2skn
+[蓝奏云下载](//xinxinf.lanzoub.com/b02rtr69g) 密码：gteh
 
 无特殊需求请下载`gbt.zip`。
 
@@ -119,6 +119,6 @@ Q：下一步打算干什么？
 
 A：把圆角矩形框应用到 GB/T 10001.3-2021 上
 
-# 反馈
+## 反馈
 
 如遇图标、中英文错误或导致无法使用的严重错误，请在本站评论、在 [MTRBBS](//www.mtrbbs.top/thread-6274-1-1.html) 介绍帖回复或发送电子邮件至 [gbt@gteh.top](mailto:gbt@gteh.top)，我将尽力解决。

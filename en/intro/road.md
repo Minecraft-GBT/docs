@@ -15,18 +15,30 @@ The GBT series main package can be used independently without installing NTE; pl
 
 **Please archive test before using this resource pack.**
 
-Copyright Notice: Unauthorized reproduction, integration, modification of additional content is prohibited; under any circumstances, all acts of resale for profit are forbidden. Single-player archives can be used without authorization, but server use requires authorization (please attach server information).
+**Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player archives and servers is permitted without prior notice.
 
-**The author reserves the right to revoke your usage rights under reasonable circumstances without any reason and is not liable for any responsibility.**
+**The author reserves the right to revoke your usage rights and publicly blacklist you without any liability or responsibility for your losses if there is evidence proving that you have spread rumors, defamed, unjustifiably banned, kicked, or insulted the author or GBT without reason.**
 
 ## Formal Introduction
 
-The road traffic signage pack released this time aims to solve the road traffic sign issues that various road MODs/add-on packs have not fully addressed. It was originally planned for the GBT mod, but since the release of the MOD is indefinitely delayed, this add-on is released in advance as a preliminary version.
+This release of the road traffic sign pack aims to address the issues that various road MODs/add-ons have not fully resolved. Originally planned as part of the GBT module, this add-on is being released in advance due to the indefinite delay of the MOD release.
 
-The road MODs I have used so far have not fully restored GB 5768.2, and even if some have been partially restored, they lack some signs. Therefore, based on the NTE decorative objects, I created a very simple add-on. After the official version is released, it is likely that only bugs will be fixed without adding new content.
+Currently, none of the road MODs I have used fully replicate GB 5768.2. Even those that partially replicate it are missing some signs. Therefore, I created a very simple add-on based on NTE decorations. The official version will likely only fix bugs without adding new content.
 
-Considering the customizability of road signs, this add-on specifically releases some templates that need customization in PSD format. With just a few lines of text changes and a few lines of JSON writing, you can customize your own road signs.
+At present, only some basic signs have been replicated, and most signs larger than one grid have not yet been updated.
 
-Due to the limited time and my lack of modeling experience, the modeling of the sign poles is really hard to describe, and I hope someone skilled can help me improve it.
+## Download
 
-Please wait for the official release for more information.
+[Download from this website](/en/download/)
+
+[Lanzou Cloud Download](//xinxinf.lanzoub.com/b0zjahupc) Passoword: gteh
+
+## Demonstration
+
+![1](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/road1.png)
+
+![2](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/road2.png)
+
+## Feedback
+
+If you encounter icon errors, Chinese/English mistakes, or serious errors that cause unusability, please send an email to [gbt@gteh.top](mailto:gbt@gteh.top) or comment, and I will try my best to solve it.

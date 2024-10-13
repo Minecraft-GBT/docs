@@ -59,6 +59,26 @@ disclaimer: true
 
 - Project initiated
 
+### May 26, 2024
+
+- #1 Road Test
+
+### July 14, 2024
+
+- #2 Traffic Test
+
+### October 5, 2024
+
+- Released preview
+
+### October 6, 2024
+
+- #3 Signs Test
+
+### October 13, 2024
+
+- Released v0.1
+
 ## Mod (Main)
 
 ### May 4, 2024
@@ -224,3 +244,7 @@ disclaimer: true
 
 - Approved the main package application for Meeeeeooooow City (via MTRBBS)
 - Others
+
+### October 13, 2024
+
+- Traffic Signs Package v0.1

@@ -54,9 +54,6 @@ Sorted by the order of application time.
 
 ### Traffic Signs Package
 
-> [!NOTE]
-> Applications for the Road Traffic Signage Pack are currently not being accepted. Please wait for the official release.
-
 | Server Name | Use | Integrate | Modify | Result | Method |
 | :--------: | :--: | :--: | :--: | :------: | :------: |
 |            |      |      |      |          |          |

@@ -12,9 +12,6 @@ Applications can be made via email or website.
 > [!NOTE]
 > The GBT mod can be used on servers without authorization, and reproduction, integration, and modification do not require authorization but should follow the MIT license.
 
-> [!WARNING]
-> Applications for the road traffic sign pack are not currently being accepted. Please wait for the official release.
-
 ## Official Website <Badge type="info" text="Fast Track" />
 
 Comment on this page and wait for the review to pass.
