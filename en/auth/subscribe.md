@@ -56,5 +56,6 @@ Sorted by the order of application time.
 
 | Server Name | Use | Integrate | Modify | Result | Method |
 | :--------: | :--: | :--: | :--: | :------: | :------: |
-|            |      |      |      |          |          |
+| 猫跃城建 | √ | √ | × | Approved | QQ |
+| Meeeeeooooow City | √ | √ | √ | Approved | MTRBBS |
 

@@ -4,7 +4,7 @@
 
 此处的“进一步”，指的是申请在服务器中使用 / 转载 / 整合 / 修改中任意一/多种。
 
-申请可以使用 MTRBBS / MTRCMU / 电子邮件 / QQ / 官网。
+申请可以使用 MTRBBS / MTRCMU / Discord / 电子邮件 / QQ / 官网。
 
 > [!NOTE]
 > GBT 主包无需授权即可整合或在单人存档和服务器内使用。转载或修改应当获得许可后再进行。
@@ -25,6 +25,10 @@
 ## MTRBBS <Badge type="info" text="快速通道" />
 
 在 [MTRBBS 介绍帖](//www.mtrbbs.top/thread-6274-1-1.html)中回复帖子后等待回复。
+
+## Discord <Badge type="info" text="快速通道" />
+
+在 [Discord 频道](//discord.com/invite/U2sykwpTT4)中的 #申请-applications 频道提出申请。
 
 ## MTRCMU <Badge type="warning" text="中速通道" />
 

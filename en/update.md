@@ -248,3 +248,9 @@ disclaimer: true
 ### October 13, 2024
 
 - Traffic Signs Package v0.1
+
+### October 15, 2024
+
+- Approved the traffic signs package application for 猫跃城建 (via QQ)
+- Approved the traffic signs package application for Meeeeeooooow City (via MTRBBS)
+- Added application channel: Discord

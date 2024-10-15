@@ -4,7 +4,7 @@ This tutorial explains how to apply for further use of the GBT pack.
 
 “Further” here refers to applying for one or more of the following uses on servers: use / reproduction / integration / modification.
 
-Applications can be made via email or website.
+Applications can be made via Discord, email or website.
 
 > [!NOTE]
 > The GBT main package can be integrated or used in single-player saves and servers without authorization. Reposting or modifying should be done after obtaining permission.
@@ -15,6 +15,10 @@ Applications can be made via email or website.
 ## Official Website <Badge type="info" text="Fast Track" />
 
 Comment on this page and wait for the review to pass.
+
+## Discord <Badge type="info" text="Fast Track" />
+
+Submit an application on the #申请-applications channel in [Discord Channel](//discord.com/invite/U2sykwpTT4).
 
 ## Email <Badge type="danger" text="Slow Channel" />
 
