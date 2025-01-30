@@ -58,4 +58,5 @@ Sorted by the order of application time.
 | :--------: | :--: | :--: | :--: | :------: | :------: |
 | 猫跃城建 | √ | √ | × | Approved | QQ |
 | Meeeeeooooow City | √ | √ | √ | Approved | MTRBBS |
+| 峡东工艺 | √ | × | × | Approved | MTRBBS |
 

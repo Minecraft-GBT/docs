@@ -32,7 +32,7 @@ features:
     details: Fully compliant with standards to ensure a realistic reproduction.
   - icon: 🚀
     title: Companion Mod (In Development)
-    details: nhance your experience with companion mods that support Fabric / Forge / Quilt / NeoForge / Rift across five platforms, with versions from 1.7.10 to 1.20.6 supported.
+    details: nhance your experience with companion mods that support Fabric / Forge / Quilt / NeoForge / Rift across five platforms, with versions from 1.7.10 to 1.21.4 supported.
   - icon: ⛜
     title: Traffic Signs
     details: Fully compliant with the GB 5768.2-2022 standard for road traffic signs, with the ultimate goal of replicating reality.
@@ -40,9 +40,9 @@ features:
 
 |           Name            | Latest Version |                   Dependencies                    | Support Minecraft Versions |
 | :-----------------------: | :------------: | :-----------------------------------------------: | :------------------------: |
-|       Main Package        | v1.2-hotfix-1  |                 MTR 3.0.0+ 4.0.0-                 |       1.16.5~1.20.1        |
+|       Main Package        | v1.2-hotfix-1  |                    MTR 3.0.0+                     |       1.16.5~1.20.4        |
 |   Traffic Signs Package   |      v0.1      |          MTR 3.1.12+ 4.0.0-, NTE 0.2.0+           |       1.17.1~1.20.1        |
-| Mod (Suspend publication) |      v0.1      | Fabric / Forge / Quilt / NeoForge / Rift (Except) |   1.7.10~1.20.6 (Expect)   |
+| Mod (Suspend publication) |      v0.1      | Fabric / Forge / Quilt / NeoForge / Rift (Except) |   1.7.10~1.21.4 (Expect)   |
 
 Mod support for multiple versions takes time, please refer to the actual situation.
 

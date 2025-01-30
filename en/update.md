@@ -254,3 +254,11 @@ disclaimer: true
 - Approved the traffic signs package application for 猫跃城建 (via QQ)
 - Approved the traffic signs package application for Meeeeeooooow City (via MTRBBS)
 - Added application channel: Discord
+
+### October 24, 2024
+
+- Approved the traffic signs package application for 峡东工艺 (via MTRBBS)
+
+### January 30, 2025
+
+- Removed the identification of the main package "4.0.0-"
