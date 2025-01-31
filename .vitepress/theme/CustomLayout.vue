@@ -9,6 +9,7 @@ const translates = {
   'en': {
     'latest_version': 'Latest Version',
     'not_latest': 'This is not the latest version content.',
+    'not_cc_license': 'The CC-BY-NC 4.0 International agreement does not apply to the file(s) published on this page.',
     'download_onedrive': 'Download (OneDrive)',
     'download_lanzou_cloud': 'Lanzou Cloud Download (Password: ',
     'modification_1': 'If there are errors in version information or files, please contact',
@@ -19,6 +20,7 @@ const translates = {
     'publication_date': 'Publication date',
     'loaders': 'Loaders',
     'dependencies': 'Dependencies',
+    'game_versions': 'Game versions',
     'changelog': 'Changelog',
     'changelog_code': 'changelog',
     'files': 'Files',
@@ -30,6 +32,7 @@ const translates = {
   'zh': {
     'latest_version': '最新版本',
     'not_latest': '这不是最新版本内容。',
+    'not_cc_license': 'CC-BY-NC-4.0 国际协议不适用于本页面发布的文件。',
     'download_onedrive': '下载 (OneDrive)',
     'download_lanzou_cloud': '蓝奏云下载 (密码: ',
     'modification_1': '版本信息或文件如有错误，请联系',
@@ -40,6 +43,7 @@ const translates = {
     'publication_date': '发布日期',
     'loaders': '加载方式',
     'dependencies': '前置模组',
+    'game_versions': "游戏版本",
     'changelog': '更新日志',
     'changelog_code': '更新日志',
     'files': '文件列表',
@@ -62,6 +66,7 @@ function getText(key) {
       <div class="vp-doc external-link-icon-enabled"> 
         <h1 :id="frontmatter.version" tabindex="-1">{{ frontmatter.version }}<span v-if="frontmatter.latest" class="VPBadge tip">{{ getText('latest_version') }}</span> <a class="header-anchor" :href="'#' + frontmatter.version" :aria-label="'Permalink to &quot;' + frontmatter.version + '&quot;'">​</a></h1>
         <div v-if="!frontmatter.latest" class="warning custom-block github-alert"><p class="custom-block-title">WARNING</p><p>{{ getText('not_latest') }}</p></div>
+        <div class="warning custom-block github-alert"><p class="custom-block-title">WARNING</p><p>{{ getText('not_cc_license') }}</p></div>
         <p class="icons-flex download-button" style="height: auto; flex-wrap: wrap;">
           <a primary aria-label="Download" :href="frontmatter.base + frontmatter.files[0].link" target="_blank" rel="noreferrer"><svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M4 16v1a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3v-1m-4-4-4 4m0 0-4-4m4 4V4"></path></svg> {{ getText('download_onedrive') }} </a>
           <a v-if="frontmatter.lanzou" aria-label="Download" :href="frontmatter.lanzou.link" target="_blank" rel="noreferrer"><svg t="1714913353208" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4552" id="mx_n_1714913353209" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200"><path d="M0 886.4V748l92-59.2c51.2-32.8 100.8-68 111.2-77.6 9.6-10.4 24.8-41.6 32-68.8C252 480 292.8 423.2 342.4 392c32.8-20.8 44.8-24 97.6-24 43.2 0 70.4 4.8 95.2 16.8 20 8.8 40 14.4 45.6 12s23.2-29.6 40-60.8c44-84 103.2-140 199.2-187.2 70.4-35.2 87.2-40 141.6-43.2l62.4-4V1024H0V886.4z" fill="#FFFEFE" p-id="4553"></path><path d="M0 388.8V0h1024v125.6l-51.2 4c-39.2 3.2-68 12.8-129.6 43.2C748 220 690.4 274.4 644 360.8c-40.8 76-56 82.4-122.4 52.8-28.8-12.8-61.6-21.6-82.4-21.6-73.6 0.8-153.6 78.4-180 173.6-7.2 27.2-20 56.8-28.8 66.4-19.2 20.8-188.8 132-212 139.2L0 776.8v-388z" fill="#FF6500" p-id="4554"></path></svg> {{ getText('download_lanzou_cloud') + frontmatter.lanzou.pwd }})</a>
@@ -80,6 +85,7 @@ function getText(key) {
           <span v-else-if="loader == 'rift'"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" xml:space="preserve"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M2.7 6.6v10.8l9.3 5.3 9.3-5.3V6.6L12 1.3zm0 0L12 12m9.3-5.4L12 12m0 10.7V12"></path></svg>Rift</span>
           <span v-else class="loader-icon">{{ loader }}</span></p>
         </p>
+        <p v-if="frontmatter.game_version"><b>{{ getText('game_versions') }}</b>:&nbsp;{{ frontmatter.game_version }}</p>
         <p v-if="frontmatter.dep"><b>{{ getText('dependencies') }}</b>:&nbsp;<span v-for="dep in frontmatter.dep">
           <span style="margin-right: 12px;">{{ dep }}</span>
         </span></p>
