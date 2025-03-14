@@ -8,9 +8,10 @@ All application results will be publicly announced here, and the blacklist will 
 
 Sorted by the severity of behavior.
 
-| Minecraft JE Profile Name |                        Measure                         |      Date       |                            Reason                            |
-| :-----------------------: | :----------------------------------------------------: | :-------------: | :----------------------------------------------------------: |
-|      Zhaozizheng2012      | Prohibited from using GBT series works and derivatives | March 7th, 2024 | Sexual harassment, spamming, lying, illegal reprinting, illegal use, verbal abuse, freeloading |
+|      Name       |                        Measure                         |       Date       |                            Reason                            |
+| :-------------: | :----------------------------------------------------: | :--------------: | :----------------------------------------------------------: |
+| Zhaozizheng2012 | Prohibited from using GBT series works and derivatives | March 7th, 2024  | Sexual harassment, spamming, lying, illegal reprinting, illegal use, verbal abuse, freeloading |
+|  抖音大龙解说   | Prohibited from using GBT series works and derivatives | March 14th, 2024 | Stealing GBT derivative works without the permission of the creator |
 
 It is particularly noted that Zhaozizheng2012, as a player banned by many servers (including Let’s Play), has committed numerous egregious acts and remains unrepentant. It is recommended that all servers prohibit his joining.
 
@@ -35,7 +36,7 @@ Sorted by the order of application time.
 |         广厦MTR          |  √   |     √     |   ×    | Approved |    MTRCMU    |
 |        江京服务器        |  √   |     ×     |   ×    | Approved |    MTRBBS    |
 |       北辰工艺 6th       |  √   |     ×     |   ×    | Approved |      QQ      |
-|    Meeeeeooooow City     |  √   |     ×     |   ×    | Approved |    MTRBBS    |
+|         喵州工艺         |  √   |     ×     |   ×    | Approved |    MTRBBS    |
 |         北方极端         |  √   |     √     |   ×    | Approved |      QQ      |
 |     新舟工艺-南风市      |  √   |     ×     |   ×    | Approved |    MTRBBS    |
 |  海顺城市轨道交通服务器  |  √   |     ×     |   ×    | Approved |    MTRBBS    |
@@ -57,6 +58,6 @@ Sorted by the order of application time.
 | Server Name | Use | Integrate | Modify | Result | Method |
 | :--------: | :--: | :--: | :--: | :------: | :------: |
 | 猫跃城建 | √ | √ | × | Approved | QQ |
-| Meeeeeooooow City | √ | √ | √ | Approved | MTRBBS |
+| 喵州工艺 | √ | √ | √ | Approved | MTRBBS |
 | 峡东工艺 | √ | × | × | Approved | MTRBBS |
 

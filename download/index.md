@@ -8,8 +8,8 @@
 | 道路交通标志包  |     v0.1      | MTR 3.1.12+, NTE 0.2.0+ (仅搭配 MTR 4.0.0- 时需要 NTE) | 1.16.5, 1.17.1, 1.18.2, 1.19.2~1.19.4, 1.20.1, 1.20.4 |
 | 模组 (暂缓发布) |     v0.1      |    Fabric / Forge / Quilt / NeoForge / Rift (预计)     |                 1.7.10~1.21.4 (预计)                  |
 
-主包下载方式：蓝奏云、OneDrive、Modrinth。
+主包下载方式：蓝奏云、下载站、Modrinth。
 
-道路交通标志包下载方式：蓝奏云、OneDrive。
+道路交通标志包下载方式：蓝奏云、下载站。
 
-模组下载方式：CurseForge、Modrinth、OneDrive。
+模组下载方式：CurseForge、Modrinth、下载站。

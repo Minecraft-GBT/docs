@@ -1,4 +1,4 @@
-# \[Semi-Original\]\[NTE 0.2.0+\]\[Free\] GBT Series Traffic Signs Pack
+# \[Semi-Original\]\[MTR 3.1.12+\]\[NTE 0.2.0+\]\[Free\] GBT Series Traffic Signs Pack
 
 > [!NOTE]
 > The CC-BY-NC 4.0 International agreement does not apply to this pack.
@@ -9,7 +9,7 @@ Due to different operational logic, they are released separately, and the data f
 
 The GBT series main package can be used independently without installing NTE; please do not confuse them.
 
-![logo](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/banner.png)
+![logo](//drive.gteh.top/f/qNIX/banner.png)
 
 ## Precautions
 
@@ -35,9 +35,9 @@ At present, only some basic signs have been replicated, and most signs larger th
 
 ## Demonstration
 
-![1](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/road1.png)
+![1](//drive.gteh.top/f/jjiO/1.png)
 
-![2](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/road2.png)
+![2](//drive.gteh.top/f/mkUj/2.png)
 
 ## Feedback
 

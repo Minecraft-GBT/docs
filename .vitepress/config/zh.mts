@@ -20,7 +20,7 @@ export const zh = defineConfig({
           text: '介绍',
           items: [
             { text: '主包', link: '/intro/' },
-            { text: '道路交通标志包', link: '/intro/road' },
+            { text: '道路交通标志包', link: '/intro/tsp' },
             { text: '模组 (暂缓发布)', link: '/intro/mod' }
           ]
         }
@@ -47,7 +47,7 @@ export const zh = defineConfig({
           text: '道路交通标志包',
           collapsed: true,
           items: [
-            { text: 'v0.1 (最新)', link: '/download/traffic-signs/v0.1' }
+            { text: 'v0.1 (最新)', link: '/download/tsp/v0.1' }
           ]
         },
         {

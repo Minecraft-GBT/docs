@@ -20,7 +20,7 @@ export const en = defineConfig({
           text: 'Introduction',
           items: [
             { text: 'Main Package', link: '/en/intro/' },
-            { text: 'Traffic Signs Package', link: '/en/intro/road' },
+            { text: 'Traffic Signs Package', link: '/en/intro/tsp' },
             { text: 'Mod (Suspend Publication)', link: '/en/intro/mod' }
           ]
         }
@@ -47,7 +47,7 @@ export const en = defineConfig({
           text: 'Traffic Signs Package',
           collapsed: true,
           items: [
-            { text: 'v0.1 (Latest)', link: '/en/download/traffic-signs/v0.1' }
+            { text: 'v0.1 (Latest)', link: '/en/download/tsp/v0.1' }
           ]
         },
         {

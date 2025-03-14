@@ -262,3 +262,10 @@ disclaimer: true
 ### January 30, 2025
 
 - Removed the identification of the main package "4.0.0-"
+
+### March 14, 2025
+
+- Meeeeeooooow City -> 喵州工艺
+- Fixed the issue of image loading failure
+- Traffic Sign Package path change
+- Blacklist 抖音大龙解说 Commentary

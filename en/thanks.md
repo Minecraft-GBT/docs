@@ -95,7 +95,7 @@ const members = [
     ]
   },
   {
-    avatar: '//www.gteh.top/images/logo.png',
+    avatar: '/thanks/gteh.png',
     name: 'GTEH',
     title: 'Create GBT Series',
     links: [
@@ -105,17 +105,17 @@ const members = [
     ]
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: 'TC 59',
     title: 'GBT Series\' Base'
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: 'Ministry of Transport of the People\'s Republic of China',
     title: 'GBT Series\' Base'
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: 'Everyone who has contributed to the drafting of the GBT usage standards',
     title: 'GBT Series\' Base'
   },
@@ -158,7 +158,7 @@ const members = [
     ]
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: 'All users',
     title: 'Power'
   }

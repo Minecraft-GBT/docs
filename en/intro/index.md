@@ -5,7 +5,7 @@ Added 2490 railway signs, with a total of 1029 texture files.
 > [!NOTE]
 > The CC-BY-NC 4.0 International agreement does not apply to this pack.
 
-![logo](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/banner.png)
+![logo](//drive.gteh.top/f/qNIX/banner.png)
 
 ## Precautions
 
@@ -79,19 +79,19 @@ Please download `gbt.zip` if there are no special requirements.
 
 ### GB/T 10001.1-2012
 
-![100011](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/gbt1000112012.png)
+![100011](//drive.gteh.top/f/6vTA/gbt1000112012.png)
 
 ### GB/T 10001.3-2021
 
-![100013](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/gbt1000132021.png)
+![100013](//drive.gteh.top/f/Z3sO/gbt1000132021.png)
 
 ### GB/T 10001.8-2021
 
-![100018](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/gbt1000182021.png)
+![100018](//drive.gteh.top/f/xqSz/gbt1000182021.png)
 
 ### GB/T 10001.9-2021
 
-![100019](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/gbt1000192021.png)
+![100019](//drive.gteh.top/f/LJhb/gbt1000192021.png)
 
 ## Q&A
 

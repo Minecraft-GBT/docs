@@ -95,7 +95,7 @@ const members = [
     ]
   },
   {
-    avatar: '//www.gteh.top/images/logo.png',
+    avatar: '/thanks/gteh.png',
     name: 'GTEH',
     title: '创作 GBT 包',
     links: [
@@ -105,17 +105,17 @@ const members = [
     ]
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: '全国图形符号标准化技术委员会',
     title: 'GBT 包诞生基础'
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: '中华人民共和国交通运输部',
     title: 'GBT 包诞生基础'
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: '起草 GBT 使用标准中贡献过的所有人',
     title: 'GBT 包诞生基础'
   },
@@ -158,7 +158,7 @@ const members = [
     ]
   },
   {
-    avatar: '//www.gteh.top/images/contacts.png',
+    avatar: '/thanks/default.png',
     name: '全体用户',
     title: '更新动力来源'
   }

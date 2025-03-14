@@ -1,4 +1,4 @@
-# \[半原创\]\[NTE 0.2.0+\]\[免费\] GBT 系列道路交通标志包
+# \[半原创\]\[MTR 3.1.12+\]\[NTE 0.2.0+\]\[免费\] GBT 系列道路交通标志包
 
 此包还在此发布：[MTRBBS](//www.mtrbbs.top/thread-7426-1-1.html) | [MTRCMU](//www.mtrbbs.com.cn/resources/26/)
 
@@ -11,7 +11,7 @@
 
 GBT 系列主包可在不安装 NTE 的情况下单独使用，请勿混淆。
 
-![logo](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/banner.png)
+![logo](//drive.gteh.top/f/qNIX/banner.png)
 
 ## 注意事项 
 
@@ -37,9 +37,9 @@ GBT 系列主包可在不安装 NTE 的情况下单独使用，请勿混淆。
 
 ## 演示
 
-![1](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/road1.png)
+![1](//drive.gteh.top/f/jjiO/1.png)
 
-![2](//drive.gteh.top/api/raw/?path=/GBT%20%E7%B3%BB%E5%88%97%E8%BF%BD%E5%8A%A0%E5%8C%85/img/road2.png)
+![2](//drive.gteh.top/f/mkUj/2.png)
 
 ## 反馈
 
