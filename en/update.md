@@ -267,5 +267,15 @@ disclaimer: true
 
 - Meeeeeooooow City -> 喵州工艺
 - Fixed the issue of image loading failure
+- Remove OneDrive download method, add Download Site download method
 - Traffic Sign Package path change
-- Blacklist 抖音大龙解说 Commentary
+- Blacklist 抖音大龙解说 commentary
+- Upgrade Twikoo
+
+### March 16, 2025
+
+- Fixed the vulnerability where the search function does not display
+- Fixed the vulnerability where the last editing time was not displayed
+- Start using Google Analytics
+- Added link to Traffic Signs Package currently in Under Review status
+- Beautification and technical changes

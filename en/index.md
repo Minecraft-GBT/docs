@@ -32,7 +32,7 @@ features:
     details: Fully compliant with standards to ensure a realistic reproduction.
   - icon: 🚀
     title: Companion Mod (In Development)
-    details: nhance your experience with companion mods that support Fabric / Forge / Quilt / NeoForge / Rift across five platforms, with versions from 1.7.10 to 1.21.4 supported.
+    details: Enhance your experience with companion mods that support Fabric / Forge / Quilt / NeoForge / Rift across five platforms, with versions from 1.7.10 to 1.21.4 supported.
   - icon: ⛜
     title: Traffic Signs
     details: Fully compliant with the GB 5768.2-2022 standard for road traffic signs, with the ultimate goal of replicating reality.

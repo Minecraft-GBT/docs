@@ -7,7 +7,7 @@ This tutorial explains how to apply for further use of the GBT pack.
 Applications can be made via Discord, email or website.
 
 > [!NOTE]
-> The GBT main package can be integrated or used in single-player saves and servers without authorization. Reposting or modifying should be done after obtaining permission.
+> The GBT main package and TSP can be integrated or used in single-player saves and servers without authorization. Reposting or modifying should be done after obtaining permission.
 
 > [!NOTE]
 > The GBT mod can be used on servers without authorization, and reproduction, integration, and modification do not require authorization but should follow the MIT license.

@@ -51,9 +51,13 @@ disclaimer: true
 
 - MTRBBS 与蓝奏云均有文件缺失问题 (每个平台各 2 个)，查漏补缺并重新上传
 
+### 2025.8.29
+
+- 服务器内使用不再需要授权
+
 ### 2024.9.1
 
-- 主包已于 [Modrinth](//modrinth.com) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
+- 主包已于 [Modrinth](//modrinth.com/resourcepack/gbt) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
 
 ## 道路交通标志包
 
@@ -80,6 +84,10 @@ disclaimer: true
 ### 2024.10.13
 
 - 发布了 v0.1
+
+### 2025.3.16
+
+- 服务器内使用不再需要授权
 
 ## 模组 (主模组)
 
@@ -268,5 +276,15 @@ disclaimer: true
 
 - Meeeeeooooow City -> 喵州工艺
 - 修复了图片加载失败的问题
+- 移除 OneDrive 下载方式，添加下载站下载方式
 - 道路交通标志包路径更改
 - 将 抖音大龙解说 列入黑名单
+- 升级 Twikoo
+
+### 2025.3.16
+
+- 修复了搜索功能不显示的漏洞
+- 修复了上次编辑时间不显示的漏洞
+- 开始使用 Google Analytics
+- 添加了正处于 Under Review 状态的道路交通标志包链接
+- 美化和技术性更改

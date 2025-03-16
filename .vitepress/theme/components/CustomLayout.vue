@@ -103,7 +103,16 @@ function getText(key) {
     </template> -->
     <template #doc-after>
       <Twikoo></Twikoo>
-      <p v-if="!frontmatter.disclaimer" class="tk-footer" style="font-size: .85em; text-align: center;">{{ getText('disclaimer') }}</p>
+      <p v-if="!frontmatter.disclaimer" class="tk-footer" style="font-size: .85em; text-align: center;">
+        {{ getText('disclaimer') }}
+        <br>
+        <span>
+          本站总访问量 <span id="busuanzi_value_site_pv" class="font-bold">--</span> 次
+        </span>
+        &nbsp;
+        <span>
+          本站访客数 <span id="busuanzi_value_site_uv" class="font-bold">--</span> 人次
+        </span></p>
     </template>
   </Layout>
 </template>

@@ -9,11 +9,9 @@ Added 2490 railway signs, with a total of 1029 texture files.
 
 ## Precautions
 
-**Please archive test before using this resource pack.**
+**Please test before using this resource pack.**
 
 **Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player archives and servers is permitted without prior notice.
-
-**The author reserves the right to revoke your usage rights and publicly blacklist you without any liability or responsibility for your losses if there is evidence proving that you have spread rumors, defamed, unjustifiably banned, kicked, or insulted the author or GBT without reason.**
 
 ## Formal Introduction
 
@@ -67,11 +65,7 @@ The GBT series signage add-on pack (referred to as the GBT series pack) is commi
 
 ## Download
 
-[Download from this website](/en/download/)
-
-[Modrinth Download](//modrinth.com/resourcepack/gbt)
-
-[Lanzou Cloud Download](//xinxinf.lanzoub.com/b02rtr69g) Password: 2skn
+[Download](/en/download/main/v1.2-hotfix-1)
 
 Please download `gbt.zip` if there are no special requirements.
 

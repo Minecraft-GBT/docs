@@ -55,6 +55,9 @@ Sorted by the order of application time.
 
 ### Traffic Signs Package
 
+> [!NOTE]
+> Starting from March 16, 2025, integration or use in single-player saves or servers no longer requires an application.
+
 | Server Name | Use | Integrate | Modify | Result | Method |
 | :--------: | :--: | :--: | :--: | :------: | :------: |
 | 猫跃城建 | √ | √ | × | Approved | QQ |

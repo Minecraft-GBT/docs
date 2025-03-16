@@ -13,11 +13,9 @@ The GBT series main package can be used independently without installing NTE; pl
 
 ## Precautions
 
-**Please archive test before using this resource pack.**
+**Please test before using this resource pack.**
 
 **Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player archives and servers is permitted without prior notice.
-
-**The author reserves the right to revoke your usage rights and publicly blacklist you without any liability or responsibility for your losses if there is evidence proving that you have spread rumors, defamed, unjustifiably banned, kicked, or insulted the author or GBT without reason.**
 
 ## Formal Introduction
 
@@ -29,9 +27,7 @@ At present, only some basic signs have been replicated, and most signs larger th
 
 ## Download
 
-[Download from this website](/en/download/)
-
-[Lanzou Cloud Download](//xinxinf.lanzoub.com/b0zjahupc) Passoword: gteh
+[Download](/en/download/tsp/v0.1)
 
 ## Demonstration
 
