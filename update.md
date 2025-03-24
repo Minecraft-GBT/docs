@@ -57,7 +57,7 @@ disclaimer: true
 
 ### 2024.9.1
 
-- 主包已于 [Modrinth](//modrinth.com/resourcepack/gbt) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
+- 已于 [Modrinth](//modrinth.com/resourcepack/gbt) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
 
 ## 道路交通标志包
 
@@ -88,6 +88,10 @@ disclaimer: true
 ### 2025.3.16
 
 - 服务器内使用不再需要授权
+
+### 2025.3.23
+
+- 已于 [Modrinth](//modrinth.com/resourcepack/gbt-tsp) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
 
 ## 模组 (主模组)
 
@@ -288,3 +292,7 @@ disclaimer: true
 - 开始使用 Google Analytics
 - 添加了正处于 Under Review 状态的道路交通标志包链接
 - 美化和技术性更改
+
+### 2025.3.23
+
+- 技术性更改

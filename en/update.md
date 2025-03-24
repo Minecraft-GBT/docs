@@ -51,7 +51,7 @@ disclaimer: true
 
 ### September 1, 2024
 
-- Main package has been launched on Modrinth and entered into MTR Content DB
+- Launched on Modrinth and entered into MTR Content DB
 
 ## Traffic Signs Package
 
@@ -78,6 +78,10 @@ disclaimer: true
 ### October 13, 2024
 
 - Released v0.1
+
+### March 23, 2025
+
+- Launched on [Modrinth](//modrinth.com/resourcepack/gbt) and entered into [MTR Content DB](//addons.minecrafttransitrailway.com)
 
 ## Mod (Main)
 
@@ -279,3 +283,7 @@ disclaimer: true
 - Start using Google Analytics
 - Added link to Traffic Signs Package currently in Under Review status
 - Beautification and technical changes
+
+### March 23, 2025
+
+- Technical changes
