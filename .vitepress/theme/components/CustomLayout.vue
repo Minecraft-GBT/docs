@@ -27,7 +27,11 @@ const translates = {
     // 'files_code': 'files',
     // 'click_to_download': 'Click on the file name to download. (OneDrive download channel)',
     // 'primary_file': 'Primary',
-    'disclaimer': 'NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.'
+    'disclaimer': 'NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.',
+    'pv': 'Page View:',
+    'pv_2': '',
+    'uv': 'Unique Visitor:',
+    'uv_2': '',
   },
   'zh': {
     'latest_version': '最新版本',
@@ -50,7 +54,11 @@ const translates = {
     // 'files_code': '文件列表',
     // 'click_to_download': '点击文件名以下载。(OneDrive 下载渠道)',
     'primary_file': '主要文件',
-    'disclaimer': '非 MINECRAFT 官方服务。未经 MOJANG 或 MICROSOFT 批准，也不与 MOJANG 或 MICROSOFT 关联。'
+    'disclaimer': '非 MINECRAFT 官方服务。未经 MOJANG 或 MICROSOFT 批准，也不与 MOJANG 或 MICROSOFT 关联。',
+    'pv': '本站总访问量',
+    'pv_2': ' 次',
+    'uv': '本站访客数',
+    'uv_2': '人次',
   }
 }
 function getText(key) {
@@ -104,15 +112,16 @@ function getText(key) {
     <template #doc-after>
       <Twikoo></Twikoo>
       <p v-if="!frontmatter.disclaimer" class="tk-footer" style="font-size: .85em; text-align: center;">
-        {{ getText('disclaimer') }}
-        <br>
         <span>
-          本站总访问量 <span id="busuanzi_value_site_pv" class="font-bold">--</span> 次
+          {{ getText('pv') }} <span id="busuanzi_value_site_pv" class="font-bold">--</span>{{ getText('pv_2') }}
         </span>
         &nbsp;
         <span>
-          本站访客数 <span id="busuanzi_value_site_uv" class="font-bold">--</span> 人次
-        </span></p>
+          {{ getText('uv') }} <span id="busuanzi_value_site_uv" class="font-bold">--</span>{{ getText('uv_2') }}
+        </span>
+        <br>
+        {{ getText('disclaimer') }}
+      </p>
     </template>
   </Layout>
 </template>

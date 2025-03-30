@@ -16,9 +16,6 @@ hero:
     - theme: alt
       text: Authentication
       link: /en/auth/
-    - theme: alt
-      text: Sponsor
-      link: //sponsor.gteh.top
   image:
     src: /logo.svg
     alt: GBT

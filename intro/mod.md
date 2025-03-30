@@ -5,6 +5,6 @@
 
 此模组作为 GBT 系列道路交通标志包的模组版本。
 
-![logo](//drive.gteh.top/f/qNIX/banner.png)
+![logo](//drive.gteh.top/f/zPcA/banner.png)
 
 更多信息请等待正式发布。

@@ -22,9 +22,6 @@ hero:
     - theme: alt
       text: MTRCMU
       link: //www.mtrbbs.com.cn/resources/20/
-    - theme: alt
-      text: 赞助
-      link: //sponsor.gteh.top
   image:
     src: /logo.svg
     alt: GBT

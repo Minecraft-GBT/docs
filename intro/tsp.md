@@ -5,13 +5,17 @@
 > [!NOTE]
 > CC-BY-NC 4.0 国际协议不适用于此包。
 
-此包名义上属于 GBT 系列包的一部分，但实际与 GBT 系列包版本分别计算，制作流程和更新时间也不同。
+> [!IMPORTANT]
+> 本包已支持 MTR 4.0.0。
+> 不要同时安装 MTR 4.0.0+ 和 NTE。
+
+此包属于 GBT 系列包的一部分，但与 GBT 系列包版本分别计算，制作流程和更新时间也不同。
 
 由于运行逻辑不同，特分别发布，各包数据分别统计。
 
 GBT 系列主包可在不安装 NTE 的情况下单独使用，请勿混淆。
 
-![logo](//drive.gteh.top/f/qNIX/banner.png)
+![logo](//drive.gteh.top/f/zPcA/banner.png)
 
 ## 注意事项 
 
@@ -33,9 +37,9 @@ GBT 系列主包可在不安装 NTE 的情况下单独使用，请勿混淆。
 
 ## 演示
 
-![1](//drive.gteh.top/f/jjiO/1.png)
+![1](//drive.gteh.top/f/xVsY/1.png)
 
-![2](//drive.gteh.top/f/mkUj/2.png)
+![2](//drive.gteh.top/f/PYfJ/2.png)
 
 ## 反馈
 

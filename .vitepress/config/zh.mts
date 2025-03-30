@@ -40,23 +40,24 @@ export const zh = defineConfig({
           collapsed: true,
           items: [
             { text: 'v1.2-hotfix-1 (最新)', link: '/download/main/v1.2-hotfix-1' },
-            { text: 'v1.1-hotfix-1', link: '/download/main/v1.1-hotfix-1' }
+            { text: 'v1.1-hotfix-1', link: '/download/main/v1.1-hotfix-1' },
           ]
         },
         {
           text: '道路交通标志包',
           collapsed: true,
           items: [
-            { text: 'v0.1 (最新)', link: '/download/tsp/v0.1' }
+            { text: 'v0.1 (最新)', link: '/download/tsp/v0.1' },
+            { text: 'v0.0.3+internal-test-3', link: '/download/tsp/v0.0.3+internal-test-3' },
           ]
         },
-        {
+        /*{
           text: '模组 (暂缓发布)',
           collapsed: true,
           items: [
-            { text: 'v0.1', link: '/download/mod/v0.1' }
+            { text: 'v0.1', link: '/download/mod/v0.1' },
           ]
-        }
+        }*/
       ]
     },
 

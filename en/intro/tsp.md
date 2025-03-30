@@ -3,13 +3,17 @@
 > [!NOTE]
 > The CC-BY-NC 4.0 International agreement does not apply to this pack.
 
+> [!IMPORTANT]
+> This package already supports MTR 4.0.0
+> Do not install MTR 4.0.0+ and NTE simultaneously
+
 This package is nominally part of the GBT series, but it is actually calculated separately from the GBT series versions, with different production processes and update timings.
 
 Due to different operational logic, they are released separately, and the data for each package is counted separately.
 
 The GBT series main package can be used independently without installing NTE; please do not confuse them.
 
-![logo](//drive.gteh.top/f/qNIX/banner.png)
+![logo](//drive.gteh.top/f/zPcA/banner.png)
 
 ## Precautions
 
@@ -31,9 +35,9 @@ At present, only some basic signs have been replicated, and most signs larger th
 
 ## Demonstration
 
-![1](//drive.gteh.top/f/jjiO/1.png)
+![1](//drive.gteh.top/f/xVsY/1.png)
 
-![2](//drive.gteh.top/f/mkUj/2.png)
+![2](//drive.gteh.top/f/PYfJ/2.png)
 
 ## Feedback
 
