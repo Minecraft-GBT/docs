@@ -30,7 +30,7 @@ export const zh = defineConfig({
           text: '授权',
           items: [
             { text: '申请', link: '/auth/' },
-            { text: '申请反馈 / 黑名单', link: '/auth/subscribe' }
+            { text: '申请反馈 / 黑名单', link: '/auth/results' }
           ]
         }
       ],

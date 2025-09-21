@@ -19,9 +19,9 @@ The GBT series main package can be used independently without installing NTE; pl
 
 **Please test before using this resource pack.**
 
-**Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player archives and servers is permitted without prior notice.
+**Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player worlds and servers is permitted without prior notice.
 
-## Formal Introduction
+## Introduction
 
 This release of the road traffic sign pack aims to address the issues that various road MODs/add-ons have not fully resolved. Originally planned as part of the GBT module, this add-on is being released in advance due to the indefinite delay of the MOD release.
 

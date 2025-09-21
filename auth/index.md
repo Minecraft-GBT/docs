@@ -12,32 +12,32 @@
 > [!NOTE]
 > GBT 模组无需授权即可在服务器内使用，转载、整合、修改无需授权且应当遵循 MIT 协议。
 
-## QQ <Badge type="tip" text="最快通道" />
+## QQ <Badge type="tip" text="最快" />
 
 如果你有我的 QQ 好友 / 与我在同一个群里，可以直接 @ 我或私聊我申请。
 
 违反 QQ 相关规定、群规定等造成的后果不由本人承担。
 
-## 官网 <Badge type="info" text="快速通道" />
+## 官网 <Badge type="info" text="快速" />
 
 在本页面评论后等待审核通过。
 
-## MTRBBS <Badge type="info" text="快速通道" />
+## MTRBBS <Badge type="info" text="快速" />
 
 在 [MTRBBS 介绍帖](//www.mtrbbs.top/thread-6274-1-1.html)中回复帖子后等待回复。
 
-## Discord <Badge type="info" text="快速通道" />
+## Discord <Badge type="info" text="快速" />
 
 在 [Discord 频道](//discord.com/invite/U2sykwpTT4)中的 #申请-applications 频道提出申请。
 
-## MTRCMU <Badge type="warning" text="中速通道" />
+## MTRCMU <Badge type="warning" text="中速" />
 
 在 [MTRCMU](//www.mtrbbs.com.cn) 中使用发起新私信，在参与者中搜索`gteh`申请。
 
-## 电子邮件 <Badge type="danger" text="慢速通道" />
+## 电子邮件 <Badge type="danger" text="慢速" />
 
 发送电子邮件至 [gbt@gteh.top](mailto:gbt@gteh.top) 申请。
 
 ---
 
-申请完之后，申请信息将公示于[申请反馈](/auth/subscribe)页面。
+申请完之后，申请信息将公示于[申请反馈](/auth/results)页面。

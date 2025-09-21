@@ -51,7 +51,7 @@ disclaimer: true
 
 ### September 1, 2024
 
-- Launched on Modrinth and entered into MTR Content DB
+- Launched on [Modrinth](//modrinth.com/resourcepack/gbt-main) and entered into [MTR Content DB](//addons.minecrafttransitrailway.com)
 
 ## Traffic Signs Package
 
@@ -81,28 +81,13 @@ disclaimer: true
 
 ### March 23, 2025
 
-- Launched on [Modrinth](//modrinth.com/resourcepack/gbt) and entered into [MTR Content DB](//addons.minecrafttransitrailway.com)
+- Launched on [Modrinth](//modrinth.com/resourcepack/gbt-tsp) and entered into [MTR Content DB](//addons.minecrafttransitrailway.com)
 
 ## Mod (Main)
 
 ### May 4, 2024
 
 - Project initiated
-
-## Mod (MTR)
-
-### April 2024
-
-- Project initiated
-
-### May 4, 2024
-
-- Decided to split some features (main mod) to release functionalities that can support Quilt / NeoForge
-
-### June 6, 2024
-
-- The project separated from the GBT series
-- EOL
 
 ## Website
 
@@ -287,3 +272,8 @@ disclaimer: true
 ### March 23, 2025
 
 - Technical changes
+
+### September 21, 2025
+
+- Modified English Translations
+- Upgrade Twikoo

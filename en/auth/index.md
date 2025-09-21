@@ -12,18 +12,18 @@ Applications can be made via Discord, email or website.
 > [!NOTE]
 > The GBT mod can be used on servers without authorization, and reproduction, integration, and modification do not require authorization but should follow the MIT license.
 
-## Official Website <Badge type="info" text="Fast Track" />
+## Official Website <Badge type="info" text="Fast" />
 
 Comment on this page and wait for the review to pass.
 
-## Discord <Badge type="info" text="Fast Track" />
+## Discord <Badge type="info" text="Fast" />
 
 Submit an application on the #申请-applications channel in [Discord Channel](//discord.com/invite/U2sykwpTT4).
 
-## Email <Badge type="danger" text="Slow Channel" />
+## Email <Badge type="danger" text="Slow" />
 
 Send an email to [gbt@gteh.top](mailto:gbt@gteh.top) to apply.
 
 ---
 
-After the application is completed, the application information will be published on the [application feedback](/en/auth/subscribe) page.
+After the application is completed, the application information will be published on the [application feedback](/en/auth/result) page.

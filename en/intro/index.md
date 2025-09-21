@@ -14,9 +14,9 @@ Added 2490 railway signs, with a total of 1029 texture files.
 
 **Please test before using this resource pack.**
 
-**Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player archives and servers is permitted without prior notice.
+**Copyright Notice:** Unauthorized reproduction or modification of additional content is **PROHIBITED**. **UNDER NO CIRCUMSTANCES** is any form of reselling or profit-making behavior allowed. Integration or use in single-player worlds and servers is permitted without prior notice.
 
-## Formal Introduction
+## Introduction
 
 Are you still troubled by not finding the railway signs you like? Don’t worry, now you have the GBT series pack!
 

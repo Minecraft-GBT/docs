@@ -57,7 +57,7 @@ disclaimer: true
 
 ### 2024.9.1
 
-- 已于 [Modrinth](//modrinth.com/resourcepack/gbt) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
+- 已于 [Modrinth](//modrinth.com/resourcepack/gbt-main) 上线并录入 [MTR Content DB](//addons.minecrafttransitrailway.com)
 
 ## 道路交通标志包
 
@@ -98,21 +98,6 @@ disclaimer: true
 ### 2024.5.4
 
 - 立项
-
-## 模组 (MTR 附属)
-
-### 2024.4
-
-- 立项
-
-### 2024.5.4
-
-- 决定将部分功能拆解 (主模组) 以将可以支持 Quilt / NeoForge 的功能发布
-
-### 2024.6.6
-
-- 项目脱离 GBT 系列
-- EOL
 
 ## 官网
 
@@ -296,3 +281,8 @@ disclaimer: true
 ### 2025.3.23
 
 - 技术性更改
+
+### 2025.9.21
+
+- 英文翻译修改
+- 升级 Twikoo
