@@ -5,6 +5,7 @@
 
 > [!IMPORTANT]
 > This package already supports MTR 4.0.0
+> 
 > Do not install MTR 4.0.0+ and NTE simultaneously
 
 This package is nominally part of the GBT series, but it is actually calculated separately from the GBT series versions, with different production processes and update timings.
@@ -35,9 +36,9 @@ At present, only some basic signs have been replicated, and most signs larger th
 
 ## Demonstration
 
-![1](//drive.gteh.top/f/xVsY/1.png)
+![1](/img/tsp/1.png)
 
-![2](//drive.gteh.top/f/PYfJ/2.png)
+![2](/img/tsp/2.png)
 
 ## Feedback
 

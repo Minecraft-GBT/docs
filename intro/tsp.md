@@ -7,6 +7,7 @@
 
 > [!IMPORTANT]
 > 本包已支持 MTR 4.0.0。
+> 
 > 不要同时安装 MTR 4.0.0+ 和 NTE。
 
 此包属于 GBT 系列包的一部分，但与 GBT 系列包版本分别计算，制作流程和更新时间也不同。
@@ -15,7 +16,7 @@
 
 GBT 系列主包可在不安装 NTE 的情况下单独使用，请勿混淆。
 
-![logo](//drive.gteh.top/f/zPcA/banner.png)
+![logo](/img/banner.png)
 
 ## 注意事项 
 
@@ -37,9 +38,9 @@ GBT 系列主包可在不安装 NTE 的情况下单独使用，请勿混淆。
 
 ## 演示
 
-![1](//drive.gteh.top/f/xVsY/1.png)
+![1](/img/tsp/1.png)
 
-![2](//drive.gteh.top/f/PYfJ/2.png)
+![2](/img/tsp/2.png)
 
 ## 反馈
 
