@@ -67,11 +67,11 @@ onMounted(() => {
 <template>
   <div class="comment-container vp-raw">
     <!-- lightGallery -->
-    <link rel="stylesheet" href="/assets/lightgallery.css">
-    <component :is="'script'" src="/assets/lightgallery.min.js"></component>
+    <link rel="stylesheet" href="https://cdn.jsdmirror.com/npm/lightgallery@3.0.0/css/lightgallery.css" integrity="sha384-KO3b8sbR0Oznu212PKLJUPpbnnF10M/hMPMCIGWYzzmg/JyS5m4Izb7ts3EpeJuw" crossorigin="anonymous">
+    <component :is="'script'" src="https://cdn.jsdmirror.com/npm/lightgallery@3.0.0/lightgallery.min.js" integrity="sha384-bihbP2gBgibPxg/ZQ8sjrX7TaLj2xHpSzEQc9p7iUCIfA6L4V7bPWpasE2NGO4rG" crossorigin="anonymous"></component>
 
     <!-- Twikoo -->
     <div id="twikoo"></div>
-    <component :is="'script'" src="/assets/twikoo.min.js" ref="twikooJs"></component>
+    <component :is="'script'" src="https://cdn.jsdmirror.com/npm/twikoo@2.0.17/dist/twikoo.min.js" ref="twikooJs" integrity="sha384-EJPyhbbrkvGsDOBDGqqwgcYL6MJufQJbVC2yq58Qu77AeXzyZy8FQYde04X70ZDF" crossorigin="anonymous"></component>
   </div>
 </template>
